@@ -1,16 +1,20 @@
 ### Hi there 👋
+I'm Koki Otsuka, master's student at Nara Institute of Science and Technology (NAIST), majoring information science.
+My current interest is ML and MLOps for medical and financial domain.
+In addition, I have recently become interested in decision theory.
 
-<!--
-**k0tk267/k0tk267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+- Nara Institute of Science and Technology (2022/04 ~ Present)
+  - Master's degree in Engineering (expected)
+- Meiji University (2019/04 ~ 2022/03)
+  - Bachelor's degree in Infomation and Communication
+  - Early Graduation (3 years)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Work
+- LF Computing (2021/09 ~ Present)
+  - Self employement
+    - Developing some trading bot
+    - Work as a freelance software engineer (in paticular backend)
+- Social Computing Lab. (2022/05 ~ Present)
+  - Research Assistant
+    - Developing software for medical domain

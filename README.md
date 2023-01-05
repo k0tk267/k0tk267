@@ -14,7 +14,7 @@ In addition, I have recently become interested in decision theory.
 - LF Computing (2021/09 ~ Present)
   - Self employement
     - Developing some trading bot
-    - Work as a freelance software engineer (in paticular backend)
+    - Working as a freelance software engineer (in paticular backend)
 - Social Computing Lab. (2022/05 ~ Present)
   - Research Assistant
     - Developing software for medical domain

@@ -12,7 +12,7 @@ In addition, I have recently become interested in decision theory.
 
 ### Work
 - LF Computing (2021/09 ~ Present)
-  - Self employement
+  - Solo proprietorship
     - Developing some trading bot
     - Working as a freelance software engineer (in paticular backend)
 - Social Computing Lab. (2022/05 ~ Present)

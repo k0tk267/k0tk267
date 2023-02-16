@@ -8,7 +8,7 @@ In addition, I have recently become interested in decision theory.
   - Master's degree in Engineering (expected)
 - Meiji University (2019/04 ~ 2022/03)
   - Bachelor's degree in Infomation and Communication
-  - Early Graduation (3 years)
+  - Early Graduation
 
 ### Work
 - LF Computing (2021/09 ~ Present)

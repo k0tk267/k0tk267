@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Koki Otsuka and a data scientist affiliated with an AdTech company. My hobby is motorcycles. I strive for discoveries in both the realms of data and motorcycles!
+I'm Koki Otsuka and an expert in Fake Kansai Dialect.
 
 ### Work
 - ??? (2024/04 ~ Present)

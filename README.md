@@ -1,6 +1,3 @@
-### Hi there 👋
-I'm Koki Otsuka and an expert in Fake Kansai Dialect.
-
 ### Work
 - ??? (2024/04 ~ Present)
   - AdTech Company in Shibuya

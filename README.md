@@ -2,7 +2,7 @@
 - ??? (2024/04 ~ Present)
   - AdTech Company in Shibuya
 - LF Works (2021/09 ~ Present)
-  - Solo proprietorship
+  - Founder
 
 ### Education
 - Nara Institute of Science and Technology (2022/04 ~ 2024/03)

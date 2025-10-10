@@ -2,8 +2,6 @@
 
 I'm a **software engineer** focusing on **data engineering** and **BI**.
 
----
-
 ### 💼 Work
 - **LFWorks LLC** (2021/09 ~ Present)
   - Founder

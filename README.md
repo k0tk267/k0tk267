@@ -16,7 +16,7 @@ I'm a **software engineer** focusing on **data engineering** and **BI**.
   - Major: Architecture
 - **Nara Institute of Science and Technology** (2022/04 ~ 2024/03)
   - Master's degree in Engineering
-  - Research Topics: Medical Informatics
+  - Research Topics: Medical NLP
 - **Meiji University** (2019/04 ~ 2022/03)
   - Bachelor's degree in Information and Communication
   - Early Graduation ⚡

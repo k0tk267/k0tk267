@@ -1,9 +1,9 @@
-## Hi, I'm k0tk267 👋🏻
+## Hi, I'm Koki Otsuka （大塚皇輝） 👋🏻
 
 I'm a **software engineer** focusing on **data engineering** and **BI**.
 
 ### 💼 Work
-- **LFWorks LLC** (2021/09 ~ Present)
+- **[LFWorks LLC](https://lfworks.co.jp)** (2021/09 ~ Present)
   - Founder
 - **CyberAgent, Inc.** (2024/04 ~ 2025/07)
   - Data Scientist

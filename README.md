@@ -1,6 +1,6 @@
 ## Hi, I'm Koki Otsuka （大塚皇輝） 👋🏻
 
-I'm a **software engineer** focusing on **data engineering** and **BI**.
+I’m a software engineer in Data Platform/Analytics.
 
 ### 💼 Work
 - **[LFWorks LLC](https://lfworks.co.jp)** (2021/09 ~ Present)
